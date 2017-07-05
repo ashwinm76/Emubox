@@ -1,0 +1,13 @@
+Source: emubox
+Section: misc
+Priority: optional
+Maintainer: Ashwin Menon <ashwin.menon@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+
+Package: emubox
+Architecture: all
+Depends: ${misc:Depends}, grub-pc, emulationstation, retroarch, xmlstarlet
+Description: This package contains various Emubox customizations.
+ Customizations such as GRUB themes, emulationstation themes,
+ retroarch configs etc. that are part of emubox.

@@ -1,0 +1,7 @@
+The Debian Package emubox
+----------------------------
+
+This package contains the customizations such as GRUB theme and associated files (font, splash),
+emulationstation theme, retroarch config etc.
+
+ -- Ashwin Menon <ashwin.menon@gmail.com>  Sat, 24 Jun 2017 11:09:07 +0530

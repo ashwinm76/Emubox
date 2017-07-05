@@ -1,0 +1,6 @@
+debian/emubox
+*.substvars
+debian/*.log
+debian/files
+debian/debhelper-build-stamp
+
